@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome on my profile 👋
+## 💎My name is Mateusz and I am a first-year student of computer science at Bialystok University of Technology💎I am currently exploring front-end and taking my first steps in programming💎 ‍I am 20 years old and full of enthusiasm to learn and create💎 On my profile you will find my student projects, and in time other interesting coding experiments💎
 
-<!--
-**MattewWebDev/MattewWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```diff
++ name: Mateusz 
++ located_in: Poland, Białystok 
++ communication: Polish, English
++ education : ["Electrical technical high school", "Bialystok University of Technology"] 
++ technologies: HTML, CSS, JavaScript 
++ currently_learning: ["JavaScript", "Bootstrap"]
++ will_learn: ["React", "Node.js", "Sass", "MongoDB"]
++ hobbies: ["Handball", "Cinema", "Cars"]
+```
