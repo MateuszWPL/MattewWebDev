@@ -1,5 +1,5 @@
 # Welcome on my profile 👋
-## 💎My name is Mateusz and I am a first-year student of computer science at Bialystok University of Technology💎I am currently exploring front-end and taking my first steps in programming💎 ‍I am 20 years old and full of enthusiasm to learn and create💎 On my profile you will find my student projects, and in time other interesting coding experiments💎
+## 💎My name is Mateusz and I am a first-year student of computer science at Bialystok University of Technology💎I am currently exploring front-end and back-end, I'm taking my first steps in programming💎 ‍I am 20 years old and full of enthusiasm to learn and create💎 On my profile you will find my student projects, and in time other interesting coding experiments💎
 
 ```diff
 + name: Mateusz 
